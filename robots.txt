@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vinicius-carvalho1.github.io/trabalho-meu-site-uniube/sitemap.xml
